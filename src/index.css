@@ -65,3 +65,14 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+/* Force light theme for better visibility */
+:root {
+  color: #213547;
+  background-color: #ffffff;
+}
+
+body {
+  color: #213547;
+  background-color: #f5f7fa;
+}
